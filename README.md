@@ -32,4 +32,4 @@
 
 <h2>Application Demo</h2>
 
-https://github.com/Sumanth077/Llama2-Chat/blob/main/chat_with_pdf_locally.mp4
+https://github.com/user-attachments/assets/e7f2cc8c-802d-4f6c-80bd-1c84b1df6ace
