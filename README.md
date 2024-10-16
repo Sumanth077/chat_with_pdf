@@ -16,7 +16,7 @@
   <li>Clone the GitHub repository</li>
 </ol>
 
-<pre><code>https://github.com/Sumanth077/chat_with_pdf.git</code></pre>
+<pre><code>git clone https://github.com/Sumanth077/chat_with_pdf.git</code></pre>
 
 <ol start="2">
   <li>Install the required dependencies</li>
