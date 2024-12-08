@@ -17,11 +17,11 @@ class State(rx.State):
         return App.from_config(
             config={
                 "llm": {"provider": "ollama",
-                        "config": {"model": "llama3.2:latest", "max_tokens": 250, "temperature": 0.5, "stream": True,
+                        "config": {"model": "llama3.3", "max_tokens": 250, "temperature": 0.5, "stream": True,
                                    "base_url": 'http://localhost:11434'}},
                 "vectordb": {"provider": "chroma", "config": {"dir": self.db_path}},
                 "embedder": {"provider": "ollama",
-                             "config": {"model": "llama3.2:latest", "base_url": 'http://localhost:11434'}},
+                             "config": {"model": "llama3.3", "base_url": 'http://localhost:11434'}},
             }
         )
 
