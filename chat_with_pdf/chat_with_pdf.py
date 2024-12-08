@@ -69,7 +69,7 @@ def index():
         rx.text("This app allows you to chat with a PDF using Llama 3.2 running locally with Ollama!"),
         rx.hstack(
             rx.vstack(
-                rx.heading("PDF Upload", size="md"),
+                rx.heading("PDF Upload"),
                 rx.upload(
                     rx.vstack(
                         rx.button(
